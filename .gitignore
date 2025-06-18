@@ -1,0 +1,25 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Python temp files (if used for dataset creation)
+__pycache__/
+*.pyc
+
+# Ignore SQL dump files
+*.sql
+*.sql.gz
+
+# Ignore Excel or temp exports
+*.xlsx
+*.xls
+*.tmp
+
+# Ignore compressed files (optional)
+*.zip
+*.rar
+
+# Optional: ignore large database exports
+*.db
+*.sqlite
+*.bak
