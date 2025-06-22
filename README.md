@@ -38,6 +38,16 @@ Your team has been asked to investigate potential user churn risks in a subscrip
 
 ---
 
+## Churn Definition
+
+For this analysis, a user is considered **churned** if they meet one or more of the following:
+
+1. **Have not logged in for 30+ days** since their last recorded activity
+2. **AND have fewer than 3 successful transactions**
+3. **OR have submitted a support ticket for a 'Refund Request' or 'Downgrade Dispute'**
+
+---
+
 ## Tools Used
 
 - MySQL + SQL Workbench

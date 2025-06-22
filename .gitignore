@@ -2,12 +2,11 @@
 .DS_Store
 Thumbs.db
 
-# Ignore Python temp files (if used for dataset creation)
+# Ignore Python temp files 
 __pycache__/
 *.pyc
 
 # Ignore SQL dump files
-*.sql
 *.sql.gz
 
 # Ignore Excel or temp exports
@@ -15,7 +14,7 @@ __pycache__/
 *.xls
 *.tmp
 
-# Ignore compressed files (optional)
+# Ignore compressed files 
 *.zip
 *.rar
 
