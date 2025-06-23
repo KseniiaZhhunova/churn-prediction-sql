@@ -73,15 +73,6 @@ For this analysis, a user is considered **churned** if they meet one or more of 
 
 ---
 
-## Coming Next
-
-- [ ] Define churn formally using SQL logic
-- [ ] Analyze early login behavior by plan and age group
-- [ ] Create user cohorts based on outcome (retained, churned)
-- [ ] Write up key insights in `insights.md`
-
----
-
 ## Questions or Feedback?
 
 I welcome feedback from data leaders and hiring managers — connect with me on via LinkedIn or reach out directly.
