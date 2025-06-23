@@ -22,3 +22,7 @@ __pycache__/
 *.db
 *.sqlite
 *.bak
+
+# Ignore .log files and environment variables
+*.log
+.env
